@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+
+}
+body{
+    background:linear-gradient(45deg , rgb(104, 103, 103) , rgb(109, 253, 229));
+    height: 100%;
+    width: 100%;
+    
+}

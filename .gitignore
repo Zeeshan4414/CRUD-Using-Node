@@ -1,0 +1,23 @@
+# Root-level Node.js dependencies
+/node_modules
+
+# Environment variables (security-sensitive)
+/.env
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+*.log
+
+# Dependency directories
+Crud/node_modules/
+server/node_modules/
+
+# Environment variable files
+Crud/.env
+server/.env
+
+# Build output (optional: add if you build frontend)
+/Crud/build/
+/server/dist/
