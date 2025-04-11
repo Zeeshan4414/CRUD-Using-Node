@@ -5,7 +5,7 @@ This is a full-stack CRUD (Create, Read, Update, Delete) application built using
 ## 🌐 Tech Stack
 
 - **Frontend:** React, Vite, Axios  
-- **Backend:** Node.js, Express.js  
+- **Backend:** Node.js, Express.js ,nodemon,cors 
 - **Database:** MySQL  
 - **Styling:** Tailwind CSS 
 
@@ -46,7 +46,7 @@ npm install
 
 ```bash
 cd server
-node index.js
+nodemon index.js
 ```
 
 #### Start Frontend Server
@@ -101,8 +101,8 @@ Here’s the live repo:
 
 ---
 
-## 📞 Contact
+<!-- ## 📞 Contact
 
 Feel free to connect for any issues or suggestions.  
 **Developer:** Zeeshan Ahmad  
-📧 Email: your-email@example.com
+📧 Email: your-email@example.com -->
